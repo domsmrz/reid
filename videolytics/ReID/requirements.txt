@@ -1,0 +1,10 @@
+pillow
+numpy
+sqlalchemy
+tqdm
+psycopg2-binary
+opencv-python
+tensorflow
+matplotlib
+scipy
+tensorflow_addons
